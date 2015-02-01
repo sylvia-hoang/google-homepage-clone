@@ -1,0 +1,79 @@
+div.header {
+	height: 60px;
+	width: 100%;
+}
+
+div.header > ul {
+	float: right;
+}
+
+a.header, a.footer {
+	font-family: Arial, sans-serif;
+	font-size: 0.80em;
+	color: #676767;
+}
+
+.logo {
+	height: 95px;
+	width: 269px;
+	padding-top: 112px;
+	display: block;
+	margin: auto;
+}
+
+.center {
+	height: 231px;
+}
+
+.query {
+	width: 570px;
+	height: 27px;
+	display: block;
+	margin: auto;
+}
+
+input {
+	border: 1px solid #CDCDCD;
+}
+
+.buttons {
+	display: inline-block;
+	border: 1px solid #CDCDCD;
+	margin-top: 20px;
+	margin-left: 10px;
+	padding: 5px;
+	background-color: #F2F2F2;
+}
+
+.execute {
+	text-align: center;
+}
+
+span {
+	height: 12px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 0.70em;
+	color: #303030;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+#footer {
+	height: 40px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	padding: 3px;
+	background-color: #F2F2F2;
+}
+
+li {
+	display: inline;
+	margin: 0px 10px;
+}
+
+
